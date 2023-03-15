@@ -3,9 +3,9 @@
 This will be the backend to a basic checklist app that tracks when a user has completed the daily and weekly tasks in Genshin Impact.
 Goals:
  - The user can log in and:
-     - Choose which server they are a part of: America (NA), Europe (EU), Asia, TW/HK/MO (SAR). This will allow for the implementation of automatic daily/weekly resets on a timeout based on their server times.
-     - Choose which daily/weekly tasks they want to show on their list. 
-     - Settings and daily/weekly progress persist when leaving the website. 
+    - Choose which server they are a part of: America (NA), Europe (EU), Asia, TW/HK/MO (SAR). This will allow for the implementation of automatic daily/weekly resets on a timeout based on their server times.
+    - Choose which daily/weekly tasks they want to show on their list. 
+    - Settings and daily/weekly progress persist when leaving the website. 
  - The site includes the following daily tasks that the user can choose from:
     - Log into HoYoLAB for the Daily Login Reward
     - 4 Daily Commission Quests (Accept rewards from Katheryn)
