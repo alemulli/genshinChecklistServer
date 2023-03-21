@@ -52,3 +52,4 @@ Goals:
  
 
 3.15.2023 - Initiated the server. Wrote the read me and made planning goals. 
+3.20.2023 - Installed CORS, wrote a body logger, marked up code with comments for readability. 
